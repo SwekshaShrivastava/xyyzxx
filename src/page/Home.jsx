@@ -77,7 +77,7 @@ const Home = () => {
             <div  role="contentinfo"  class="w-full lg:w-1/2 h-full">
                 <p tabindex="0" class="text-indigo-700 uppercase text-2xl mb-4">The Community Showcase</p>
                 <h1 tabindex="0" class="text-indigo-700  text-4xl lg:text-4xl font-black mb-8">Generate UnExcepected Visuals which you never seen before</h1>
-                <p tabindex="0" class="text-gray-800 dark:text-white font-regular mb-8">COMBINING SCIENCE WITH BEAUTY. L'Oreal Paris offerincare products is developed and rigorously tested with leading scientists. Indulge yourself in a luxurious and sensorial skincare experience. Cutting-edge innovations, proven by Science.</p>
+                <p tabindex="0" class="text-gray-800 dark:text-white font-regular mb-8">COMBINING SCIENCE WITH ARTISTRY. Embrace the future of artistry as we take you on an extraordinary journey of AI-generated imagery, where each stroke and pixel resonate with innovation, passion, and unlimited possibilities. Welcome to a realm where AI becomes your artistic ally, and the only limit is your imagination.</p>
                
             </div>
         </div>
